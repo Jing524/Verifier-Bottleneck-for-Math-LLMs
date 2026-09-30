@@ -1,7 +1,7 @@
 # Verifier Bottleneck for Math LLMs
 
-> **Research Note:** [GitHub Pages](https://jing524.github.io/Verifier-Bottleneck-for-Math-LLMs/) ·
-> **Blog Branch:** [blog](https://github.com/Jing524/Verifier-Bottleneck-for-Math-LLMs/tree/blog)
+> **Blog:** [Is the Next Sample Worth the Read?](https://jing524.github.io/Verifier-Bottleneck-for-Math-LLMs/) ·
+> **Source:** [blog branch](https://github.com/Jing524/Verifier-Bottleneck-for-Math-LLMs/tree/blog)
 
 This repository studies whether additional **test-time sampling** for mathematical reasoning models improves accuracy fast enough to justify the extra reasoning tokens.
 
